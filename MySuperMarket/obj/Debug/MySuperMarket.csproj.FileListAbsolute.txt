@@ -1,0 +1,6 @@
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\MySuperMarket\MySuperMarket\bin\Debug\MySuperMarket.exe.config
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\MySuperMarket\MySuperMarket\bin\Debug\MySuperMarket.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\MySuperMarket\MySuperMarket\bin\Debug\MySuperMarket.pdb
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\MySuperMarket\MySuperMarket\obj\Debug\MySuperMarket.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\MySuperMarket\MySuperMarket\obj\Debug\MySuperMarket.exe
+C:\Users\gmpar\OneDrive\DEV_ SYNC\VisualStudioWorkspace\MySuperMarket\MySuperMarket\obj\Debug\MySuperMarket.pdb
